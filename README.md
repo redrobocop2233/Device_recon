@@ -37,8 +37,6 @@ Usage:
 
 2\. You can also pass a URL:
 
-&nbsp;	
-
 &nbsp;	python recon.py https://example.com
 
 &nbsp; 
